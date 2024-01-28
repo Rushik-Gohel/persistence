@@ -1,1 +1,1 @@
-# persistence
+# Methods of algorithm implementation
